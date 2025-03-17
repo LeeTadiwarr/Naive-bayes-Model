@@ -57,12 +57,4 @@ Create a web interface for real-time predictions.
 
 📩 Author: Lee Tadiwarr
 
----
-
-### **Next Steps:**
-1. **Create a GitHub repo** ➝ Go to [GitHub](https://github.com/) and create a new repository.
-2. **Add your files** ➝ Upload `heart_attack_prediction.py` and `heart_attack_prediction_dataset.csv`.
-3. **Commit `README.md`** ➝ Copy-paste this file into the repository.
-4. **Push it to GitHub**! 🚀  
-
-Let me know if you need help with any of the steps! 😊
+---------------------------------------------------------------------------------
