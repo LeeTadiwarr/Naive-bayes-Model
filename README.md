@@ -29,33 +29,26 @@ The dataset (`heart_attack_prediction_dataset.csv`) contains the following key c
 ```bash
 git clone https://github.com/your-username/heart-attack-prediction.git
 cd heart-attack-prediction
+```
 🔹 Step 2: Install Dependencies
 Ensure you have Python 3.8+ and install the required libraries:
-
-bash
-Copy
-Edit
+```
 pip install pandas scikit-learn
+```
 or if using Anaconda:
-
-bash
-Copy
-Edit
+```
 conda install pandas scikit-learn
+```
 🔹 Step 3: Run the Model
-bash
-Copy
-Edit
+```
 python heart_attack_prediction.py
+```
 🎯 Results
 The model's accuracy is printed after execution:
-
-bash
-Copy
-Edit
+```
 Model Accuracy: 85.43%
 (Your accuracy may vary depending on the dataset and training process.)
-
+```
 📌 Future Improvements
 Experiment with Decision Trees and Random Forest for better accuracy.
 Improve feature selection to enhance predictions.
